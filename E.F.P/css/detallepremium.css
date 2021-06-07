@@ -1,0 +1,36 @@
+.tabla {
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+td,th{
+    border:2px solid black;
+    padding-top: 10px;
+    padding-right: 100px;
+}
+.EFP img {
+    width: 15%;
+    margin-right: 20px;
+    margin-left: 43%;
+    margin-top: 5%;
+}
+.titulo{
+    text-align: center;
+}
+body{
+    background-image: url(/img/fondo\ oscuro.png);
+    background-color: rgba(0, 0, 0, 0.822);
+}
+.general{
+    margin: auto;
+    margin-top: 50px;
+    width: 960px;
+    height: 800px;
+    background-color: rgba(255, 255, 255, 0.534);
+    border: black 2px solid;
+}
+.boton{
+    font-size: 300%;
+    width: 50%;
+    float: left;
+}

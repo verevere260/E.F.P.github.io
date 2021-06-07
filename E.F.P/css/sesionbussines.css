@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+div#general{
+    margin: auto;
+    margin-top: 50px;
+    width: 960px;
+    height: 800px;
+    background-color: rgba(8, 121, 100, 0.842);
+}
+.fondo{
+    background-image: url(/img/New\ Wireframe\ 2.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
